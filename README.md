@@ -1,4 +1,4 @@
-# Laravel 10 DMS
+# Laravel 10 Admin
 
 ## Install breeze package for Auth
 composer require laravel/breeze --dev
