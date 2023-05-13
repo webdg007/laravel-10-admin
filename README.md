@@ -1,13 +1,13 @@
 # Laravel 10 DMS
 
-# Install breeze package for Auth
+## Install breeze package for Auth
 composer require laravel/breeze --dev
 php artisan breeze:install 
 
-# Create database and Tables
+## Create database and Tables
 php artisan migrate
 
-# Create New migration file
+## Create New migration file
 php artisan make:migration
 
 Description:
